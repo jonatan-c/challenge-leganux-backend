@@ -21,7 +21,7 @@
 ### FRONT END 
 1) Ir a la carpeta frontend
 2) Ejecutar ```npm install``` .
-3) Cambiar el nombre del archivo ```.env.example``` a ```.env``` y colocar el path de la base de datos de mongo DB.
+3) Verificar que la ruta backend coincida, path: src/config/axios.js
 4) Ejecutar ```npm run dev```
 5) Solo se puede crear y listar.
 
